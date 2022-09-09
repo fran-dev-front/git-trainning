@@ -1,2 +1,7 @@
 
+<<<<<<< HEAD
 hola mundo.txt se me olvido hacerle pull a mi branch
+=======
+hola mundo.txt
+hola mundo.txt1
+>>>>>>> 8b6d23edd5819be25275ed8c0adc9e851f44eec9
